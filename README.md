@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[NOTE: The email containing the task details received by me today for some reason as it was in Spam folder. This submission is only 4 hours work. I request you to please consider for the same.]
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
